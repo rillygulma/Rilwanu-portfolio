@@ -28,12 +28,12 @@ export default function About() {
           className="space-y-6 text-lg leading-8 text-slate-400"
         >
           <p>
-            I&apos;m a passionate Frontend Developer focused on creating
-            modern and user-friendly web applications.
+            I&apos;m a passionate Software Developer focused on creating
+            modern and user-friendly web applications, mobile applications, and backend systems.
           </p>
 
           <p>
-            I work with modern technologies such as Next.js, React,
+            I work with modern technologies such as Next.js, React, React Native, Node.js, Express.js, PostgreSQL, MongoDB, TypeScript, and Tailwind CSS to transform ideas into reliable digital experiences.
             TypeScript, and Tailwind CSS to transform ideas into reliable
             digital experiences.
           </p>

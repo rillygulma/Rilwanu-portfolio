@@ -23,9 +23,9 @@ const services = [
   },
   {
     icon: Smartphone,
-    title: "Responsive Design",
+    title: "Mobile App Development",
     description:
-      "Pixel-perfect interfaces that work beautifully across mobile, tablet, and desktop devices.",
+       "Modern and responsive mobile applications built to deliver seamless experiences across Android and iOS devices.",
   },
   {
     icon: Zap,

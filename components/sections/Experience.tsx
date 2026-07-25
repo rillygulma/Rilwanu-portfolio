@@ -12,29 +12,42 @@ import CertificateModal from "@/components/sections/ui/CertificateModal";
 
 const experiences = [
   {
-    role: "Frontend Developer",
+    role: "Software Developer",
     company: "Freelance / Independent",
-    period: "2024 – Present",
+    period: "2021 – Present",
     description:
       "Building modern, responsive, and scalable web applications using Next.js, React, TypeScript, and Tailwind CSS.",
+  },
+  {
+    role: "Frontend Developer Intern",
+    company: "Trueminds Innovation Ltd",
+    period: "2026",
+    description:
+      "Collaborated with Product Managers, UI/UX Designers, Backend Engineers, and stakeholders to develop a scalable Learning Management System (LMS), I Designed and implemented core features: Dashboard, FAQ page, Onboarding flow, and Explore page	Integrated REST APIs for seamless data flow and real-time updates	Improved UI responsiveness using Tailwind CSS and modern React patterns Currently implementing API integration for the Team Management module",
   },
   {
     role: "Frontend Developer Intern",
     company: "HNG Internship",
     period: "2024",
     description:
-      "Worked on real-world frontend projects and collaborated with developers to build responsive web experiences.",
+      "Engineered reusable UI components, improving efficiency by 30% Built responsive and accessible user interfaces Applied modern frontend best practices",
   },
   {
-    role: "Frontend Developer Intern",
-    company: "Trueminds Innovation Ltd",
+    role: "Backend Developer Intern",
+    company: "HNG Internship",
     period: "2024",
     description:
-      "Developed modern web interfaces and gained practical experience working with frontend technologies.",
+      "Developed RESTful APIs using Node.js and Express.js Implemented database schemas and queries with PostgreSQL and MongoDB Ensured secure authentication and authorization using JWT and OAuth2.0",
   },
 ];
 
 const certificates = [
+    {
+    title: "Frontend Development Certificate",
+    issuer: "Trueminds Innovation Ltd",
+    year: "2026",
+    image: "/certificates/trueminds-certificate.jpeg",
+  },
   {
     title: "Frontend Development Certificate",
     issuer: "HNG Internship",
@@ -46,12 +59,6 @@ const certificates = [
     issuer: "HNG Internship",
     year: "2024",
     image: "/certificates/hng-backend-certificate.jpeg",
-  },
-  {
-    title: "Frontend Development Certificate",
-    issuer: "Trueminds Innovation Ltd",
-    year: "2026",
-    image: "/certificates/trueminds-certificate.jpeg",
   },
 ];
 

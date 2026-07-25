@@ -6,10 +6,10 @@ export const siteConfig = {
   phone: "+2348035504017",
 
   github:
-    "https://github.com/YOUR_GITHUB_USERNAME",
+    "https://github.com/rillygulma",
 
   linkedin:
-    "https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/",
+    "https://www.linkedin.com/in/Rilwanu-Idris/",
 
   whatsapp:
     "https://wa.me/2348035504017",
